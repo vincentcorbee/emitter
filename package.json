@@ -1,0 +1,15 @@
+{
+  "name": "@digitalbranch/emitter",
+  "version": "1.0.0",
+  "description": "Emitter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "V.J.M. Corbee",
+  "license": "MIT",
+  "dependencies": {
+    "@digitalbranch/u": "file:../U"
+  }
+}
